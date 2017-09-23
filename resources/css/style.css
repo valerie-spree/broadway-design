@@ -6,5 +6,8 @@ html{
 h1{
   font-size: 70px;
   color: white;
+}
+
+#headerbanner{
   background-image: url(/Users/Valerie/broadway-design/resources/images/the-flatiron-building.png);
 }
