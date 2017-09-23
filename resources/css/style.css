@@ -1,0 +1,10 @@
+html{
+  font-family: Helvetica;
+  text-align: center;
+}
+
+h1{
+  font-size: 70px;
+  color: white;
+  background-image: url(/Users/Valerie/broadway-design/resources/images/the-flatiron-building.png);
+}
