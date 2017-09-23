@@ -8,6 +8,10 @@ h1{
   color: white;
 }
 
-#headerbanner{
+.headerbanner{
   background-image: url(/Users/Valerie/broadway-design/resources/images/the-flatiron-building.png);
+}
+
+.about{
+  
 }
