@@ -13,9 +13,14 @@ h1{
   text-align: center;
 }
 
-h3{
+h2, h3{
   font-size: 23px;
   text-align: center;
+}
+
+img{
+  display: block;
+  margin: auto;
 }
 
 h3.design{
@@ -24,13 +29,13 @@ h3.design{
   text-align: center;
 }
 
-h4, a{
+h4, nav{
   font-size: 18px;
   color: white;
   text-align: center;
 }
 
-p{
+.about{
   font-size: 14px;
   text-align: center;
 }
@@ -39,4 +44,10 @@ p{
   font-size: 11px
   text-align:left;
   background-color: dimgray;
+  color: white;
+}
+
+.btn-nav {
+    font-size: 18px;
+    color: white;
 }
