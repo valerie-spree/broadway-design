@@ -12,6 +12,11 @@ h1{
   background-image: url(/Users/Valerie/broadway-design/resources/images/the-flatiron-building.png);
 }
 
-.about{
-  
+h3{
+  font-size: 23px;
+}
+
+h3.design{
+  background-image: url(/Users/Valerie/broadway-design/resources/images/the-flatiron-building.png);
+  color: white;
 }
